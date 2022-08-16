@@ -27,5 +27,4 @@ def halve (num)
         end
     end
 
-    half_of_it = halve("me")
-    puts half_of_it
+  
